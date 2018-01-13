@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-image: url('paper.jpg');
+}
+
+#number {
+  margin-bottom: 1em;
+}
+
+.card {
+  /* width: 45px; */
+}
+.digit {
+  margin-left: -1px;
+}
